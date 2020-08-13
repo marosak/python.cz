@@ -1,0 +1,242 @@
+BEGIN:VCALENDAR
+PRODID:ics.py - http://git.io/lLljaA
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20200813T041323Z
+DTSTART:20200924T170000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2020-09-24@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200813T041323Z
+DTSTART:20201126T180000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2020-11-26@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200813T041323Z
+DTSTART:20201216T180000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2020-12-16@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200813T041323Z
+DTSTART:20201230T180000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2020-12-30@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200813T041323Z
+DTSTART:20210128T180000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2021-01-28@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+GEO:50.209506;15.834793
+DTSTAMP:20200813T041323Z
+DTSTART:20200917T160000Z
+SUMMARY:Hradecké Pyvo #9 Deváté
+DESCRIPTION:Micropython nás zkrátka baví! Rozhodli jsem se pokračovat v tomto tématu i v rámci devátého hradeckého Pyva\, které proběhne 17.9. \n
+LOCATION:Pivovar Pivovarské domy\, Velké náměstí 26\, Hradec Králové
+URL:https://pyvo.cz/hradec-pyvo/2020-09/
+TRANSP:OPAQUE
+UID:hradec-pyvo-2020-09-17@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200813T041323Z
+DTSTART:20200916T170000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2020-09-16@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200813T041323Z
+DTSTART:20201118T180000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2020-11-18@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200813T041323Z
+DTSTART:20200930T170000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2020-09-30@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200813T041323Z
+DTSTART:20201202T180000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2020-12-02@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200813T041323Z
+DTSTART:20210120T180000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2021-01-20@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200813T041323Z
+DTSTART:20200902T170000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2020-09-02@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200813T041323Z
+DTSTART:20201104T180000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2020-11-04@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200813T041323Z
+DTSTART:20200827T170000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2020-08-27@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200813T041323Z
+DTSTART:20201029T180000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2020-10-29@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200813T041323Z
+DTSTART:20201125T180000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2020-11-25@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200813T041323Z
+DTSTART:20210106T180000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2021-01-06@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200813T041323Z
+DTSTART:20201111T170000Z
+SUMMARY:(Plzeňské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:plzen-pyvo-2020-11-11@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200813T041323Z
+DTSTART:20200909T160000Z
+SUMMARY:(Plzeňské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:plzen-pyvo-2020-09-09@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200813T041323Z
+DTSTART:20201021T170000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2020-10-21@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200813T041323Z
+DTSTART:20200819T170000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2020-08-19@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200813T041323Z
+DTSTART:20210127T180000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2021-01-27@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200813T041323Z
+DTSTART:20210113T170000Z
+SUMMARY:(Plzeňské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:plzen-pyvo-2021-01-13@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200813T041323Z
+DTSTART:20201231T180000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2020-12-31@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+STATUS:CONFIRMED
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:50.08;14.43
+CREATED:20200810T184221Z
+LAST-MODIFIED:20200810T184221Z
+SEQUENCE:1
+DTSTAMP:20200813T041300Z
+DTSTART:20200824T160000Z
+DTEND:20200824T180000Z
+SUMMARY:PyWorking session #102
+DESCRIPTION:*** Basic EN info: *** We are mostly practical meetup so bring your own laptop.This Python programming session is for girls and boys who are learning Python and already have some basic knowledge (variables\, cycles\, functions\, classes\, lists\, dicts). Questions? You can contact us on info@pyworking.cz *** CZ info: *** Scházíme se ve 14 denních intervalech. Potvrzení účasti na události (RSVP) je nutné a závazné! Notebook s sebou nutností! Studijní skupina pro další začátečníky/ lehce pokročilé v Pythonu (proměnné\, cykly\, funkce\, třídy\, seznamy\, slovníky)\, kteří na meetupech najdou podporu a pomoc s řešením otázek ke svým projektům\, mohou zde sdílet výsledky své práce\, nebo požádat o code review. Můžete si také přijít nechat poradit\, pokud s výběrem vlastního projektu váháte. V této skupině neprobíhá ucelená výuka\; pokud se zajímáte o kurzy Pythonu pro začátečníky\, sledujte skupinu PyLadies Praha https://www.facebook.com/groups/pyladiespraha nebo se podívej na https://naucse.python.cz/course/pyladies/ \, kde se lze základy naučit podle materiálů v češtině. Těšíme se na vás!
+LOCATION:PwC Czech Republic (Hvězdova 1734/2c\, Nusle\, Praha-Praha 4\, Czech Republic 140 00)
+URL:https://www.meetup.com/pyworking/events/272490299/
+TRANSP:OPAQUE
+UID:event_272490299@meetup.com
+CATEGORIES:Web Technology,Women in Technology,Open Source,Python,Computer programming,Technology Professionals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200813T041323Z
+DTSTART:20201007T170000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2020-10-07@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200813T041323Z
+DTSTART:20200826T170000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2020-08-26@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200813T041323Z
+DTSTART:20201028T180000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2020-10-28@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+END:VCALENDAR
